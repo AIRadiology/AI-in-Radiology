@@ -11,7 +11,7 @@ of the technologies that IntelliRadiology is working on.
 
 .. |N|logo| image:: https://avatars3.githubusercontent.com/u/60891473?s=200&v=4
 
-**Train an AI in Radiology**
+**Project #1: Train an AI in Radiology**
 
 Currently, outside of traditional regression models and boolean tagging
 data types, many computer vision systems utilize classification type
@@ -19,8 +19,8 @@ systems. We are looking into a multi-phased system in which we build a
 data model to detect basic abnormalities all the way to making a full
 fledged AI for automated X-Ray tagging and even full fledged digital
 X-Ray enhancement. In regards to enhancement, we want to see ways we can
-merge pattern recognition systems w/ CLAHE.
+merge pattern recognition systems w/ CLAHE. 
 
-View `project page`_
+VIEW `PROJECT PAGE`_
 
-.. _project page: https://www.zooniverse.org/projects/gamer456148/train-an-ai-in-radiology
+.. _PROJECT PAGE: https://www.zooniverse.org/projects/gamer456148/train-an-ai-in-radiology
