@@ -27,4 +27,4 @@ VIEW `PROJECT PAGE`_
 
 **About**
 
-Artificial intelligence is a vastly growing field, and given its expected accelerated rate of development, various forms of radiography will be computationally accelerated as well. This will be beyond image quality, but also image diagnosis.
+Artificial intelligence is a vastly growing field, and given its expected accelerated rate of development, various forms of radiography will be computationally accelerated as well. This will include everything from improving image quality to sensory methods to diagnosis.
