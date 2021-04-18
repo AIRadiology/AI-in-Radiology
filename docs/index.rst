@@ -24,3 +24,7 @@ merge pattern recognition systems w/ CLAHE.
 VIEW `PROJECT PAGE`_
 
 .. _PROJECT PAGE: https://www.zooniverse.org/projects/gamer456148/train-an-ai-in-radiology
+
+**About**
+
+Artificial intelligence is a vastly growing field, and given its expected accelerated rate of development, various forms of radiography will be computationally accelerated as well. This will be beyond image quality, but also image diagnosis.
