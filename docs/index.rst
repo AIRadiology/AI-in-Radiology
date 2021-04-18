@@ -27,4 +27,7 @@ VIEW `PROJECT PAGE`_
 
 **About**
 
-AI is a vastly growing field, and given its expected accelerated rate of development, various forms of radiography will be computationally accelerated as well. This will include everything from improving image quality to sensory methods to diagnosis.
+AI is a vastly growing field, and given its expected accelerated rate of
+development, various forms of radiography will be computationally
+accelerated as well. This will include everything from improving image
+quality to sensory methods to diagnosis.
